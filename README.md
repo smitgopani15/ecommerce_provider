@@ -1,16 +1,7 @@
-# ecommerce_provider
+<p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src = "https://user-images.githubusercontent.com/125651843/222980261-8ab30d99-fb72-4f02-a473-65a1f02ca1fa.png" width=20% height=40%>
+  <img src = "https://user-images.githubusercontent.com/125651843/222980262-6b160154-e46c-4089-b6f9-3c1e2631e9eb.png" width=20% height=40%>
+  <img src = "https://user-images.githubusercontent.com/125651843/222980267-63157859-74d4-4607-beb4-45861d09da5a.png" width=20% height=40%>
+  
+</p>
